@@ -3,8 +3,8 @@ import webpackGameEntrypoint from 'devkitCore/clientapi/webpackGameEntrypoint';
 
 import device from 'device';
 
-import TitleScreen from 'src/TitleScreen'
-import GameScreen from 'src/GameScreen'
+import TitleScreen from 'src/view_controller/TitleScreen'
+import GameScreen from 'src/view_controller/GameScreen'
 
 import View from 'ui/View';
 import StackView from 'ui/StackView';
